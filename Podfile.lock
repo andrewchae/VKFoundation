@@ -5,16 +5,16 @@ PODS:
   - CocoaLumberjack/Core (1.7.0)
   - CocoaLumberjack/Extensions (1.7.0):
     - CocoaLumberjack/Core
-  - DTCoreText (1.6.16):
+  - DTCoreText (1.6.17):
     - DTFoundation/Core (~> 1.7.5)
     - DTFoundation/DTAnimatedGIF (~> 1.7.5)
     - DTFoundation/DTHTMLParser (~> 1.7.5)
     - DTFoundation/UIKit (~> 1.7.5)
-  - DTFoundation/Core (1.7.8)
-  - DTFoundation/DTAnimatedGIF (1.7.8)
-  - DTFoundation/DTHTMLParser (1.7.8):
+  - DTFoundation/Core (1.7.9)
+  - DTFoundation/DTAnimatedGIF (1.7.9)
+  - DTFoundation/DTHTMLParser (1.7.9):
     - DTFoundation/Core
-  - DTFoundation/UIKit (1.7.8):
+  - DTFoundation/UIKit (1.7.9):
     - DTFoundation/Core
   - Expecta (0.3.1)
   - OCMock (2.2.4)
@@ -31,8 +31,8 @@ DEPENDENCIES:
 
 SPEC CHECKSUMS:
   CocoaLumberjack: a2213b8410917a1a5ecfc5c63a4206edc24d3a5b
-  DTCoreText: 934a16fe9ffdd169c96261721b39dc312b75713d
-  DTFoundation: 46e2b2fafe78d67febfd8d1f85fe9845a093f00e
+  DTCoreText: 3ea8bba23dd2141ba18adb227a7dd33a822df1c4
+  DTFoundation: 70a0765e3596f82dd421832e95c65e2166eb3102
   Expecta: a354d4633409dd9fe8c4f5ff5130426adbe31628
   OCMock: a6a7dc0e3997fb9f35d99f72528698ebf60d64f2
   Reachability: dd9aa4fb6667b9f787690a74f53cb7634ce99893

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "VKFoundation"
-  s.version          = "0.1.2.1"
+  s.version          = "0.1.2.2"
   s.summary          = "VKFoundation provides convenient utilities that is used in Viki."
   s.homepage         = "https://github.com/viki-org/VKFoundation"
   s.license          = 'Apache License, Version 2.0'
@@ -18,8 +18,8 @@ Pod::Spec.new do |s|
   s.osx.exclude_files = 'Classes/ios'
 
   s.public_header_files = 'Classes/**/*.h'
-  s.dependency 'Reachability', '~> 3.1.1'
+  s.dependency 'Reachability', '~> 3.2'
   s.dependency 'DTCoreText', '~> 1.6.16'
-  s.dependency 'CocoaLumberjack', '~> 1.7.0'
+  s.dependency 'CocoaLumberjack', '~> 2.0.1'
 
 end
